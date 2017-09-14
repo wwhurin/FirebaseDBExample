@@ -8,12 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:402500193275:android:e72d23a18ddaadba",
+        "mobilesdk_app_id": "1:402500193275:android:864856f130117f7e",
         "android_client_info": {
-          "package_name": "com.test.android"
+          "package_name": "kr.hs.emirim.wwhurin.firebasedbexample"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "402500193275-mh46spoe1rrajmnihb25gr1mkl37hisf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.hs.emirim.wwhurin.firebasedbexample",
+            "certificate_hash": "fbdb6bf244cf686b70e154ebd0763f544bbd4ce9"
+          }
+        },
         {
           "client_id": "402500193275-4pco68t77be2em2l9b5t2okuii65bq6t.apps.googleusercontent.com",
           "client_type": 3
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402500193275-4pco68t77be2em2l9b5t2okuii65bq6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
