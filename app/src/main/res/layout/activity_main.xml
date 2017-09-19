@@ -41,7 +41,8 @@
             android:text="https://github.com/nonameme"
             android:textSize="15sp"
             android:textColor="@color/colorPrimaryDark"
-            android:padding="10dp"/>
+            android:padding="10dp"
+            android:onClick="onClick"/>
 
         </LinearLayout>
     </LinearLayout>
